@@ -11,7 +11,6 @@ on:
           - '20260320'
           - '20251231'
           - '20251226'
-          - '20251205'
       network_settings:
         description: "2、请选择初始网络配置"
         required: true
